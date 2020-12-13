@@ -1,46 +1,34 @@
-# La page à Bruno
-<table>
-<tr>
-<td>
+<table rules="groups"> 
+<thead> 
+<tr> 
+<th style="text-align: left">Header1</th> 
+<th style="text-align: center">Header2</th> 
+<th style="text-align: right">Header3</th>
+ </tr> 
+</thead> 
+<tbody> 
+<tr> 
+<td style="text-align: left">
 
-### Divers
-> "id": 1,
-<br>"username": "joe",
-<br>"email": "joe@example.com",
-<br>"order_id": "3544fc0"
+## Test
+>List
+<br>List
 
-### Test
+</td> 
+<td style="text-align: center">
 
+## Test
+>List
+<br>List
 
-</td>
-<td>
+</td> 
+<td style="text-align: right">
 
-### Divers
-> "id": 1,
-<br>"username": "joe",
-<br>"email": "joe@example.com",
-<br>"order_id": "3544fc0"
+## Test
+>List
+<br>List
 
-### Test
-
-</td>
-<td>
-
-### Divers
-> "id": 1,
-<br>"username": "joe",
-<br>"email": "joe@example.com",
-<br>"order_id": "3544fc0"
-
-### Test
-
-</td>
-</tr>
+</td> 
+</tr> 
+</tfoot> 
 </table>
-
-
-
-
-# myWebPage
-
-Just a crappy web page with useful links that I use as my home page.
