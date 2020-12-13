@@ -1,10 +1,10 @@
 <table rules="groups"> 
 <thead> 
-<tr> 
-<th style="text-align: left">Header1</th> 
-<th style="text-align: center">Header2</th> 
-<th style="text-align: right">Header3</th>
- </tr> 
+  <tr> 
+    <th style="text-align: left">Header1</th> 
+    <th style="text-align: center">Header2</th> 
+    <th style="text-align: right">Header3</th>
+  </tr> 
 </thead> 
 <tbody> 
 <tr> 
@@ -30,4 +30,5 @@
 
 </td> 
 </tr>
+</tbody>
 </table>
