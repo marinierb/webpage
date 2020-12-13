@@ -29,6 +29,5 @@
 <br>List
 
 </td> 
-</tr> <tfoot>
-</tfoot> 
+</tr>
 </table>
